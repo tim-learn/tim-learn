@@ -1,5 +1,7 @@
 ### 我是中科院自动化所 梁坚 👋
 
+🔭 I’m currently working on machine learning topics including test-time adaptation, federated learning, and model attacks and defenses.
+
 <!--
 **tim-learn/tim-learn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +18,3 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=tim-learn&show_icons=true" alt="logo" height="160" align="left" style="margin: 5px; margin-bottom: 20px;" />
-
-
-- 🔭 I’m currently working on machine learning topics including test-time adaptation, federated learning, and model attacks and defenses.
