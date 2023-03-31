@@ -1,4 +1,5 @@
-### 我是中科院自动化所 梁坚 👋
+### 嗨，我是中科院自动化所 梁坚 👋
+### Hi, I am Jian Liang from Institute of Automation, Chinese Academy of Sciences (CAS) 👋
 
 🔭 I’m currently working on machine learning topics including test-time adaptation, federated learning, and model attacks and defenses.
 
