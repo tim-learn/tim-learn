@@ -5,9 +5,9 @@
 🔭 I’m currently working on machine learning topics including 
 
 - test-time adaptation
-- federated learning
 - model attacks and defenses
-- fine-tuning vision-language models
+- federated learning
+- vision-language models
 
 <!--
 **tim-learn/tim-learn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
