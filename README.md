@@ -1,7 +1,13 @@
 ### 嗨，我是中科院自动化所 [梁坚](https://people.ucas.ac.cn/~liangjian) 👋
+
 👯 Hi, I am [Jian Liang](https://liangjian.xyz) from Institute of Automation, Chinese Academy of Sciences (CASIA) 👋
 
-🔭 I’m currently working on machine learning topics including test-time adaptation, federated learning, and model attacks and defenses.
+🔭 I’m currently working on machine learning topics including 
+
+- test-time adaptation
+- federated learning
+- model attacks and defenses
+- fine-tuning vision-language models
 
 <!--
 **tim-learn/tim-learn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +22,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <img src="https://github-readme-stats.vercel.app/api?username=tim-learn&show_icons=true" alt="logo" height="160" align="left" style="margin: 5px; margin-bottom: 20px;" />
+
+-->
+
+https://github-readme-stats.vercel.app/api?username=tim-learn&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy
