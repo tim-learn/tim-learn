@@ -2,12 +2,14 @@
 
 👯 Hi, I am [Jian Liang](https://liangjian.xyz) from Institute of Automation, Chinese Academy of Sciences (CASIA) 👋
 
-🔭 I’m currently working on machine learning topics including 
+🔭  I’m currently working on machine learning topics including
 
 - test-time adaptation
 - model attacks and defenses
 - federated learning
-- vision-language models
+- learning with vision-language models
+
+📫 Feel free to drop me an email [liangjian92😄gmail.com] if you're interested.
 
 <!--
 **tim-learn/tim-learn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
