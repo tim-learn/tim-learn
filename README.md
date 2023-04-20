@@ -1,6 +1,6 @@
 ### About Me
 
-👯 Hi, I am [梁坚](https://people.ucas.ac.cn/~liangjian) | [Jian Liang](https://liangjian.xyz) from 中科院自动化研究所 | Institute of Automation, Chinese Academy of Sciences (CASIA).
+👯 Hi, I am [[梁坚](https://people.ucas.ac.cn/~liangjian) | [Jian Liang](https://liangjian.xyz)] from 中科院自动化研究所 | Institute of Automation, Chinese Academy of Sciences (CASIA).
 
 🔭  I’m currently working on machine learning topics including
 
