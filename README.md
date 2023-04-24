@@ -7,7 +7,7 @@
 - test-time adaptation [[LHT2023](https://arxiv.org/abs/2303.15361)], [[LHJH2022](https://arxiv.org/abs/2104.01539)], [[LHT2021](https://arxiv.org/abs/2012.07297)]
 - model attacks and defenses [[SLH<sup>+</sup>2023](https://arxiv.org/abs/2303.10594)], [[GLH2022](https://arxiv.org/abs/2210.15427)]
 - federated learning [[SLZ<sup>+</sup>2022](https://arxiv.org/abs/2210.00226)], [[LCH<sup>+</sup>2021](https://arxiv.org/abs/2106.05001)]
-- learning with vision-language models [[WLH<sup>+</sup>2023](https://arxiv.org/abs/XXX)].
+- learning with vision-language models [[WLH<sup>+</sup>2023](http://liangjian.xyz/assets/paper/wlh+2023.pdf)].
 
 📫 Feel free to drop me an email (name@gmail.com, name=liangjian92) if you're interested.
 
