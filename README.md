@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tim-learn" alt="tim-learn" /> </p>
+
 <img src="https://github-readme-stats.vercel.app/api?username=tim-learn&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy" alt="logo" height="160" align="left" style="margin: 5px; margin-bottom: 20px;" />
 
 -->
